@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000px" height="500px" alt="DevOps Workspace">
+</p>
 
-<!--
-**harsh-kumar-devops/harsh-kumar-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro -->
+<h1 align="center"><strong>Hey, I'm Harsh</strong></h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+⚙️ DevOps Engineer | ☁️ Cloud & Infrastructure | 🚀 Automation Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+<i>“Automating what shouldn’t require human patience.”</i>
+</h4>
+
+---
