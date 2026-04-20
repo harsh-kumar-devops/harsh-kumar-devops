@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://preview.redd.it/ka748imprlee1.gif?width=600&format=mp4&s=a0dc43a620dc392140d99fd4f3f28dfc83f4785d" width="1000px" height="500px" alt="DevOps Workspace">
+  <img src="https://i.gifer.com/7k5e.gifhttps://i.gifer.com/7k5e.gif" width="1000px" height="500px" alt="DevOps Workspace">
 </p>
 
 <!-- Intro -->
