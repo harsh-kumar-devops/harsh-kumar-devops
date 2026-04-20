@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.reddit.com/r/animegifs/comments/1i7kop6/prepare_for_launch/#lightbox" width="1000px" height="500px" alt="DevOps Workspace">
+  <img src="https://preview.redd.it/ka748imprlee1.gif?width=600&format=mp4&s=a0dc43a620dc392140d99fd4f3f28dfc83f4785d" width="1000px" height="500px" alt="DevOps Workspace">
 </p>
 
 <!-- Intro -->
