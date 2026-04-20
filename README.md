@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000px" height="500px" alt="DevOps Workspace">
+  <img src="https://www.reddit.com/r/animegifs/comments/1i7kop6/prepare_for_launch/#lightbox" width="1000px" height="500px" alt="DevOps Workspace">
 </p>
 
 <!-- Intro -->
@@ -11,7 +11,7 @@
 </h3>
 
 <h4 align="center">
-<i>“Automating what shouldn’t require human patience.”</i>
+<i>“Automating everything that shouldn’t require human patience”</i>
 </h4>
 
 ---
