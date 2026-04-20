@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/7k5e.gifhttps://i.gifer.com/7k5e.gif" width="1000px" height="500px" alt="DevOps Workspace">
+  <img src="https://i.gifer.com/7k5e.gif" width="1000px" height="500px" alt="DevOps Workspace">
 </p>
 
 <!-- Intro -->
